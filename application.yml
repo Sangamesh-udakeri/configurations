@@ -1,9 +1,4 @@
-spring:
-  application:
-    name: config-default
-  profiles:
-    active:
-    - prod    
+  
   
 eureka:
   client:
